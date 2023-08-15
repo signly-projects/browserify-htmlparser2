@@ -1,0 +1,1 @@
+Browserified version of htmlparser2
